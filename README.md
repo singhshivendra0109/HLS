@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 HLS Neural Network Accelerator
+# 🧠 HLS on AI/ML model
 
 ### *From Python to FPGA — End-to-End Deep Learning on Hardware*
 
