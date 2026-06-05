@@ -441,21 +441,13 @@ Class 9:  0.045
 
 ---
 
-## 📄 License
-
-This project is for **educational and research purposes**.
-
-- The `stb_image` library is in the **public domain** — see [nothings/stb](https://github.com/nothings/stb)
-- Neural network architectures are based on published research papers
-
----
 
 <div align="center">
 
-⭐ **If you found this project helpful, consider giving it a star!** ⭐
+
 
 ---
 
-*Built with ❤️ for hardware-accelerated deep learning*
+
 
 </div>
